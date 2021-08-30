@@ -41,7 +41,7 @@
     "nodejs-base64": "^1.0.3",
     "nodemailer": "^6.3.0",
     "passport": "^0.4.1",
-    "passport-saml": "^1.2.0",
+    "passport-saml": "^3.1.0",
     "redis": "^2.8.0",
     "redis-clustr": "^1.7.0",
     "request": "^2.88.0",
