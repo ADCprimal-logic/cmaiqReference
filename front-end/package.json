@@ -43,7 +43,7 @@
     "jquery": "3.2.1",
     "jw-angular-social-buttons": "^1.0.0",
     "jwt-decode": "^2.2.0",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.21",
     "ng-intercom": "^8.0.0",
     "ng2-animate-on-scroll": "^1.2.0",
     "ng2-charts": "~2.2.3",
